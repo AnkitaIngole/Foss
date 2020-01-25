@@ -1,4 +1,7 @@
 # addition of two no
 int a,b(input(value a,b))
 print a+b
+#output
+5,7
+12
 
